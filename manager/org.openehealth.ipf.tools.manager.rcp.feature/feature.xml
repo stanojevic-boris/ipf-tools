@@ -2,7 +2,7 @@
 <feature
       id="org.openehealth.ipf.tools.manager.rcp.feature"
       label="IPF Manager"
-      version="2.2.0.qualifier"
+      version="2.2.0.m3"
       provider-name="Open eHealth Foundation"
       exclusive="true">
 

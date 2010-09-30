@@ -2,7 +2,7 @@
 <feature
       id="org.openehealth.ipf.tools.ide.feature"
       label="IPF IDE"
-      version="2.2.0.qualifier"
+      version="2.2.0.m3"
       provider-name="Open eHealth Foundation">
 
    <description url="http://repo.openehealth.org">

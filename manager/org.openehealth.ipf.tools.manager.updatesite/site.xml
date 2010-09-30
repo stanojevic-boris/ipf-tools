@@ -2,9 +2,9 @@
 <site>
         <description>IPF Manager update site.</description>
         <feature 
-            url="features/org.openehealth.ipf.tools.manager.feature_2.2.0.qualifier.jar" 
+            url="org.openehealth.ipf.tools.manager.feature_2.2.0.m3" 
             id="org.openehealth.ipf.tools.manager.feature" 
-            version="2.2.0.qualifier"> 
+            version="2.2.0.m3"> 
             <category name="IPF Tools"/> 
         </feature>
 
